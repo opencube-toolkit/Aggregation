@@ -1,4 +1,4 @@
-package org.certh.opencube.utils;wwww
+package org.certh.opencube.utils;
 import org.openrdf.model.Literal;
 import org.openrdf.model.impl.LiteralImpl;
 
